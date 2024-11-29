@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreyash Mahamulkar 
 
-<img src="https://github.com/shreyash0606/shreyash0606/blob/main/Welcome%20to%20My%20Git-Hub%20Profile.png" />
+<img src="https://github.com/shreyash0606/shreyash0606/blob/main/Welcome%20to%20My%20Git-Hub%20Profile%20(1).png" />
 
 🎨 **Frontend & Full Stack Developer** passionate about crafting sleek, responsive web and mobile applications using the latest technologies.  
 💻 Focused on clean code, accessibility, and seamless user experiences.
