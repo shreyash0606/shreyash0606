@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreyash Mahamulkar 
 
-![Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile)  
+<img src="https://github.com/shreyash0606/shreyash0606/blob/main/Welcome%20to%20My%20Git-Hub%20Profile.png" />
 
 🎨 **Frontend & Full Stack Developer** passionate about crafting sleek, responsive web and mobile applications using the latest technologies.  
 💻 Focused on clean code, accessibility, and seamless user experiences.
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 Currently working on **[Laravel Project]**.  
+- 🔭 Currently working on **Laravel Project**.  
 - 🌱 Learning advanced **Laravel** features and enhancing skills in **HTML animations**.  
 - 💬 Ask me about **Frontend Development**, **Bootstrap**, **WordPress** or **React.js**,.  
 - ✨ Fun fact: I’m a big fan of turning creative ideas into **pixel-perfect designs**.
